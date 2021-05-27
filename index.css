@@ -1,0 +1,33 @@
+*{
+  margin:0;
+  padding:0;
+}
+body{
+  background-image: url(D:\reactjs\myfirstapp\src\images\bkg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+td,th{
+  font-size: 2rem;
+  font-weight: bold;
+}
+td{
+  font-variant-caps: small-caps;
+}
+input{
+  font-size:3rem;
+  width: 100rem;
+  font-style: italic;
+}
+th{
+  background-color: red;
+  padding-left: 2rem;
+  text-align:center;
+
+}
+h2{
+  font-size: 2rem;
+  padding-left: 40rem;
+
+}
